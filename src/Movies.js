@@ -13,7 +13,6 @@ const Movies = () => {
     );
   }
 
-
   return (
     <>
       <section className='movie-page'>
